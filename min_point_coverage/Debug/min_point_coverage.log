@@ -1,0 +1,3 @@
+﻿  main.cpp
+d:\em\project\min_point_coverage\min_point_coverage\main.cpp(47): warning C4018: “<”: 有符号/无符号不匹配
+  min_point_coverage.vcxproj -> D:\em\project\min_point_coverage\Debug\min_point_coverage.exe
